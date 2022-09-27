@@ -1,0 +1,10 @@
+body {
+  background-color: dodgerblue;
+}
+#chessboard {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  position: relative;
+  margin: 0 auto;
+  top: 100px;
+}
